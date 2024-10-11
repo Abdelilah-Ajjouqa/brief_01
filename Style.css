@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root{
+    --primary-color: #088178;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Spartan', sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+div {
+    border: 1px solid blue;
+    margin: 100px 110px 90px 75px;
+    background-color: blueviolet;
+}
